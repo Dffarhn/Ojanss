@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url('../13.jpg');
-    background-position: center calc(40% - 1vh);
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
